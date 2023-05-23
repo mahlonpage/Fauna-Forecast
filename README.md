@@ -1,4 +1,4 @@
-# Fauna Forecasting
+# Fauna Forecast
 
 ## Introduction
 The United States National Park Service preserves over 80,000,000 square miles of beautiful nature. In these locations we find over 40,000 unique fauna and flora.
